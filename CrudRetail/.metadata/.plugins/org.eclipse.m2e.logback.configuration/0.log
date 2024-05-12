@@ -1,1 +1,23 @@
 2024-05-12 13:54:42,682 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-12 14:01:42,434 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.crud:retailapp:0.0.1-SNAPSHOT @ D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\pom.xml.
+2024-05-12 14:01:53,589 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /retailapp/src/main/java
+2024-05-12 14:01:53,590 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /retailapp/src/main/resources
+2024-05-12 14:01:53,650 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /retailapp/src/main/resources
+2024-05-12 14:01:53,669 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /retailapp/src/test/java
+2024-05-12 14:02:02,318 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 29 sec
+2024-05-12 14:02:09,093 [Worker-8: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:02:09,149 [Worker-8: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:02:09,160 [Worker-8: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:02:41,302 [Worker-5: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:02:41,303 [Worker-5: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:02:41,305 [Worker-5: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:05:48,770 [Worker-10: Launching Retailapp_build] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp
+2024-05-12 14:05:48,772 [Worker-10: Launching Retailapp_build] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install package -Dstyle.color=always
+2024-05-12 14:11:07,253 [Worker-12: Launching Retailapp_build] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp
+2024-05-12 14:11:07,253 [Worker-12: Launching Retailapp_build] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install package -Dstyle.color=always
+2024-05-12 14:18:24,149 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:18:24,165 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:18:24,170 [Worker-15: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:22:52,409 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:22:52,421 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:22:52,425 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources

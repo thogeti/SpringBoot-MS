@@ -36,3 +36,112 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:36.743
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:36.755
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7225f871[org.springframework.tooling.boot.ls:1.9.0.201907120625(id=624)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:36.787
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:37.615
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui 2 2 2024-05-12 14:01:46.374
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.414
+!MESSAGE Boot LS startup time from start to initialized: 22371ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.578
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.tOaZvSMOisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.579
+!MESSAGE subscribing to classpath changes: sts4.classpath.tOaZvSMO isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.592
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.596
+!MESSAGE subsribers = {sts4.classpath.tOaZvSMO=Send Classpath Notifications(91)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.596
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.eclipse.ui 4 0 2024-05-12 14:01:59.611
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.IEditorPart.getEditorInput()" because "activeEditor" is null
+	at org.springframework.tooling.ls.eclipse.commons.ProjectSorter$1.run(ProjectSorter.java:39)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3919)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3550)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.633
+!MESSAGE project retailapp ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.634
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.635
+!MESSAGE Preparing classpath changed notification retailapp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.636
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.tOaZvSMO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.636
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.640
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.641
+!MESSAGE buffering callback sts4.classpath.tOaZvSMO retailapp false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.658
+!MESSAGE executing callback sts4.classpath.tOaZvSMO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:01:59.710
+!MESSAGE executing callback sts4.classpath.tOaZvSMO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:02:03.632
+!MESSAGE Preparing classpath changed notification retailapp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:02:03.634
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:02:03.646
+!MESSAGE classpath=97 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:02:03.654
+!MESSAGE buffering callback sts4.classpath.tOaZvSMO retailapp false 97
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:02:03.654
+!MESSAGE executing callback sts4.classpath.tOaZvSMO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-05-12 14:02:03.709
+!MESSAGE executing callback sts4.classpath.tOaZvSMO SUCCESS [done]
