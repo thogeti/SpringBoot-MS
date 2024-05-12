@@ -21,3 +21,56 @@
 2024-05-12 14:22:52,409 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-12 14:22:52,421 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-12 14:22:52,425 [Worker-18: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:32:17,520 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:32:17,567 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:32:17,576 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:40:22,804 [Worker-28: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:40:22,813 [Worker-28: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:40:22,818 [Worker-28: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:43:09,510 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:43:09,557 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:43:09,563 [Worker-27: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:43:47,878 [Worker-28: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:43:47,920 [Worker-28: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:43:47,926 [Worker-28: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:44:45,214 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:44:45,222 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:44:45,228 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:46:07,365 [Worker-30: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:46:07,373 [Worker-30: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:46:07,376 [Worker-30: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:46:36,828 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:46:36,838 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:46:36,841 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:47:48,443 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:47:48,456 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:47:48,459 [Worker-24: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:48:48,461 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:48:48,471 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:48:48,475 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:49:35,981 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:49:35,992 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:49:35,996 [Worker-32: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:53:35,366 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:53:35,377 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:53:35,380 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:58:39,507 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:58:39,551 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:58:39,557 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 14:59:31,751 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 14:59:31,782 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 14:59:31,786 [Worker-36: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 15:11:08,624 [Worker-30: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 15:11:08,638 [Worker-30: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 15:11:08,670 [Worker-30: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 15:11:14,304 [Worker-37: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 15:11:14,314 [Worker-37: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 15:11:14,317 [Worker-37: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 15:12:50,305 [Worker-41: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-12 15:12:50,315 [Worker-41: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 15:12:50,319 [Worker-41: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-12 15:13:07,253 [Worker-41: Launching Retailapp_build] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp
+2024-05-12 15:13:07,254 [Worker-41: Launching Retailapp_build] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install package -Dstyle.color=always
+2024-05-12 15:13:58,140 [Worker-42: Launching RetailApp_run] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 15:13:58,140 [Worker-42: Launching RetailApp_run] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-12 15:13:58,144 [Worker-42: Launching RetailApp_run] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources

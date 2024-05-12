@@ -3,6 +3,7 @@ package com.example.retail.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.CrudRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -32,8 +33,9 @@ public class ProductController {
 	 */
 	
 	@GetMapping("/findProductById/{id}")
-	public ResponseEntity<Products> findProductById(@PathVariable long id) {
-		return ResponseEntity.ok().body( productService.findProductById(id));
+	public CrudRepository<Products> findProductById(@PathVariable long id) {
+		//return CrudRepository.ok().body( productService.findProductById(id));
+	return productService.findProductById(id);
 	}
 	
 	@PostMapping("/create")
