@@ -1,0 +1,4 @@
+
+*.log
+/CrudRetail/.metadata/.plugins/org.eclipse.e4.workbench
+/CrudRetail/.metadata/.plugins

@@ -74,3 +74,6 @@
 2024-05-12 15:13:58,140 [Worker-42: Launching RetailApp_run] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-12 15:13:58,140 [Worker-42: Launching RetailApp_run] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-12 15:13:58,144 [Worker-42: Launching RetailApp_run] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
+2024-05-13 12:52:49,339 [Worker-49: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-13 12:52:49,428 [Worker-49: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-13 12:52:49,432 [Worker-49: Building workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Work\Git\SpringBoot-MS\SpringBoot-MS\CrudRetail\retailapp\src\test\resources
